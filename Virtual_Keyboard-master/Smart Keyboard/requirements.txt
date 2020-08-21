@@ -1,0 +1,5 @@
+tensorflow
+json
+numpy
+tinkter
+argparse
